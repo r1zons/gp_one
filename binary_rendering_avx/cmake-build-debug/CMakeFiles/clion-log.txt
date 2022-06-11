@@ -1,0 +1,15 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/destruction/Desktop/GC/1/binary_rendering_avx
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Darwin-Initialize.cmake:303 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake:21 (include)
+  CMakeLists.txt:4 (project)
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug

@@ -1,0 +1,3 @@
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/build/CMakeFiles/rebuild_cache.dir
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/build/CMakeFiles/edit_cache.dir
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/build/CMakeFiles/BinaryRenderer.dir

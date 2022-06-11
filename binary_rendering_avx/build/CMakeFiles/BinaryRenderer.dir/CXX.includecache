@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/FrameBuffer.h
+cstdint
+-
+
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/GP_ONE.cpp
+iostream
+-
+cstring
+-
+immintrin.h
+-
+GP_ONE.h
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/GP_ONE.h
+cassert
+-
+
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/GP_ONE.h
+Sprite.h
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/Sprite.h
+SpriteInstance.h
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/SpriteInstance.h
+FrameBuffer.h
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/FrameBuffer.h
+
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/Sprite.h
+cstdint
+-
+
+/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/SpriteInstance.h
+cstdint
+-
+

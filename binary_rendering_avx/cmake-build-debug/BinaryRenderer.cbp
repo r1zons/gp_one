@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BinaryRenderer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BinaryRenderer">
+				<Option output="/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/BinaryRenderer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/destruction/Desktop/GC/1/binary_rendering_avx/External"/>
+					<Add directory="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 BinaryRenderer"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BinaryRenderer/fast">
+				<Option output="/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/BinaryRenderer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/destruction/Desktop/GC/1/binary_rendering_avx/External"/>
+					<Add directory="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 BinaryRenderer/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/destruction/Desktop/GC/1/binary_rendering_avx/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/External/Clock.cpp">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/External/Clock.h">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/External/ImageManager.cpp">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/External/ImageManager.h">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/External/SceneLoader.cpp">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/External/SceneLoader.h">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/FrameBuffer.cpp">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/FrameBuffer.h">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/GP_ONE.cpp">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/GP_ONE.h">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/Scene.h">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/Sprite.cpp">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/Sprite.h">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/SpriteInstance.h">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/Source/main.cpp">
+			<Option target="BinaryRenderer"/>
+		</Unit>
+		<Unit filename="/Users/destruction/Desktop/GC/1/binary_rendering_avx/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
